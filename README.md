@@ -56,8 +56,8 @@ Cryptosporidiosis causes debilitating, and often fatal, diarrheal disease and ye
 - The pipeline is developed and implemented by Rui Xiao
 
 ## Data availability
-The RNAseq data generated for this study is available through PRJNA1274990
-The scRNAseq data previously generated is available through GSE232438
+- The RNAseq data generated for this study is available through PRJNA1274990.
+- The scRNAseq data previously generated is available through GSE232438.
 
 ## Citations
 
