@@ -10,7 +10,7 @@ This repo houses the code used for analyzing ASP2 knock out in the apicomplexa p
 
 
 ## Abstract
-Cryptosporidiosis causes debilitating, and often fatal, diarrheal disease and yet effective therapeutics to target the causative apicomplexan parasite, Cryptosporidium, are lacking. Recently, multiple chemical inhibitors of aspartyl proteases (ASP) have been developed against related parasites and show significant therapeutic promise. ASPs are responsible for proteolytic cleavage and maturation of apicomplexan proteins during egress, invasion, and effector secretion.  Several are essential and their unique structure relative to eukaryotic ASPs, makes inhibitors highly selective and fast acting, often at sub-nanomolar concentrations. Cryptosporidium possesses five ASPs, none of which have been molecularly characterized.  Here we describe two C. parvum ASPs (CpASP) and find one, CpASP2, to be essential to parasite survival. Conditional deletion of this protease leads to a developmental block, prior to the formation of gametes, a necessary stage in the progression of the lifecycle.  We find that CpASP2 plays an essential role in egress of both asexual merozoites and male gametes, and that the block in egress upon gene deletion cannot be overcome with chemical egress inducers. Deletion of CpASP2 prevents infection of mice, and inhibition after infection leads to rapid parasite clearance. Together, this work furthers our understanding of parasite egress mechanisms and presents a potential, multi-stage therapeutic target.
+(PLACEHOLDER)
 
 
 ## Dependencies (Teested working for this pipeline)
