@@ -1,0 +1,7 @@
+sample,fastq_1,fastq_2,strandedness
+WT_3_48h,WT_3_48h_trimmed.fastq.gz,,auto
+WT_2_48h,WT_2_48h_trimmed.fastq.gz,,auto
+WT_1_48h,WT_1_48h_trimmed.fastq.gz,,auto
+ASP4_3_48h,ASP4_3_48h_trimmed.fastq.gz,,auto
+ASP4_2_48h,ASP4_2_48h_trimmed.fastq.gz,,auto
+ASP4_1_48h,ASP4_1_48h_trimmed.fastq.gz,,auto

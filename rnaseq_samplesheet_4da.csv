@@ -1,0 +1,7 @@
+sample,fastq_1,fastq_2,condition,replicate
+WT_3_48h,WT_3_48h_trimmed.fastq.gz,,WT_48H,3
+WT_2_48h,WT_2_48h_trimmed.fastq.gz,,WT_48H,2
+WT_1_48h,WT_1_48h_trimmed.fastq.gz,,WT_48H,1
+ASP4_3_48h,ASP4_3_48h_trimmed.fastq.gz,,ASP4_48H,3
+ASP4_2_48h,ASP4_2_48h_trimmed.fastq.gz,,ASP4_48H,2
+ASP4_1_48h,ASP4_1_48h_trimmed.fastq.gz,,ASP4_48H,1
