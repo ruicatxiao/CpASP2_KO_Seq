@@ -13,7 +13,7 @@ This repo houses the code used for analyzing ASP2 knock out in the apicomplexa p
 (PLACEHOLDER)
 
 
-## Dependencies (Teested working for this pipeline)
+## Dependencies (Tested working for this pipeline)
 - Java (v17 to 24)
 - Docker (follow default installation)
 - Nextflow (v24.10.5)
