@@ -38,11 +38,11 @@ This repo houses the code used for analyzing ASP2 knock out in the apicomplexa p
 ```
 .
 ├── contrasts.csv				# Comparison list for nf-core/differentialabundance
-├── nfcore_rnaseq.sh			# Shell script for executiong nf-core/rnaseq
+├── nfcore_rnaseq.sh			   # Shell script for executiong nf-core/rnaseq
 ├── nfcore_da.sh				# Shell scriopt for executing nf-core/differentialabundance
-├── rnaseq_samplesheet.csv		# Samplesheet for rnaseq
-├── rnaseq_samplesheet_4da.csv	# Samplesheet for differentialabundance
-└── asp2_da_to_singlecell.R		# R scripts for analyzing DESeq2 results with single cell
+├── rnaseq_samplesheet.csv		   # Samplesheet for rnaseq
+├── rnaseq_samplesheet_4da.csv	   # Samplesheet for differentialabundance
+└── asp2_da_to_singlecell.R		   # R scripts for analyzing DESeq2 results with single cell
 
 ```
 
