@@ -10,7 +10,7 @@ This repo houses the code used for analyzing ASP2 knock out in the apicomplexa p
 
 
 ## Abstract
-(PLACEHOLDER)
+The parasite Cryptosporidium causes severe diarrheal disease that can be life-threatening, and effective treatments are sorely lacking. Recently, aspartyl proteases (ASP) have emerged as targets with significant therapeutic potential in several related parasites resulting in the development of multiple potent leads. ASPs are critical to the proteolytic activation and maturation of secretory proteins parasites rely on to invade, manipulate, and upon completion of their replication cycle exit the host cells in which they reside. The Cryptosporidium genome encodes five ASPs, which have not been previously studied. Here we explore two of these enzymes and in genetic experiments find one, CpASP2, to be essential to parasite growth. Conditional deletion of the gene encoding this protease leads to arrest at two distinct points in the lifecycle. Cell biological studies of the mutant phenotype demonstrate that CpASP2 is required for egress of both asexual merozoites and male gametes. Mutant parasites appear to complete intracellular development yet are paralyzed and incapable of responding to stimuli that trigger motility and egress in wild type. Ablation of CpASP2 in infected mice leads to rapid parasite clearance highlighting the promise of CpASP2 and likely additional related enzymes as multi-stage targets of therapy.
 
 
 ## Dependencies (Tested working for this pipeline)
@@ -61,4 +61,4 @@ This repo houses the code used for analyzing ASP2 knock out in the apicomplexa p
 
 ## Citations
 
-"PLACE HOLDER FOR MANUSCRIPT DOI"
+Wallbank BA, Smith EJ, Carrasco JED, Xiao R, Walzer KA, Riley JR, Striepen B. Cryptosporidium aspartyl protease 2 is required for host cell egress of merozoites and male gametes. Mol Biol Cell. 2025 Sep 3:mbcE25060306. doi: 10.1091/mbc.E25-06-0306. Epub ahead of print. PMID: 40901734.
