@@ -61,4 +61,4 @@ The parasite Cryptosporidium causes severe diarrheal disease that can be life-th
 
 ## Citations
 
-Wallbank BA, Smith EJ, Carrasco JED, Xiao R, Walzer KA, Riley JR, Striepen B. Cryptosporidium aspartyl protease 2 is required for host cell egress of merozoites and male gametes. Mol Biol Cell. 2025 Sep 3:mbcE25060306. doi: 10.1091/mbc.E25-06-0306. Epub ahead of print. PMID: 40901734.
+Wallbank BA, Smith EJ, Carrasco JED, Xiao R, Walzer KA, Riley JR, Striepen B. Cryptosporidium aspartyl protease 2 is required for host cell egress of merozoites and male gametes. Mol Biol Cell. 2025 Sep 3:mbcE25060306. doi: 10.1091/mbc.E25-06-0306. PMID: 40901734.
